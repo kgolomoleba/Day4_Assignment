@@ -65,9 +65,3 @@ Due to access issues, I couldn't retrieve the original assignment questions. Ins
 ### ✅ Final Thoughts
 
 Now I understand **how to manage a software project** like a leader, and **pitch it** like a storyteller! Whether it’s coding, planning, or presenting—these skills are game-changers in the tech world 💻🌍
-
-Let’s build smart, lead well, and pitch with purpose! 
-
----
-
-Would you like this version in a PDF, Word doc, or slide format for your submission?
